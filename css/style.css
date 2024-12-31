@@ -44,3 +44,21 @@
     top: 30px;
     left: 50px;
 }
+
+.label-two{
+    position: relative;
+    top: 55px;
+    left: 50px;
+}
+
+.gender{
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+
+.drop-down-list{
+    position: relative;
+    top: 120px;
+    left: 10px
+}
