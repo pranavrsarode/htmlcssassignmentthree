@@ -1,0 +1,46 @@
+.main-content{
+    background-color: lightgray;
+    height: 600px;
+    width: 500px;
+    margin-inline: auto;
+}
+
+.inner-content{
+    background-color: white;
+    margin-inline: auto;
+    height: 120px;
+    width: 350px;
+    position: fixed;
+    left: 600px;
+    top: 50px;
+}
+
+.header-text{
+    font-size: x-large;
+    font-weight: bold;
+    padding: 15px 70px;
+}
+
+.text-content{
+    padding: 0px 50px;
+}
+
+.text-content-one{
+    padding: 0px 110px;
+}
+
+.last-content{
+    background-color: white;
+    margin-inline: auto;
+    height: 380px;
+    width: 350px;
+    position: fixed;
+    left: 600px;
+    top: 200px;
+}
+
+.label-one{
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
