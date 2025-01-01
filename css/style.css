@@ -1,6 +1,6 @@
 .main-content{
     background-color: lightgray;
-    height: 600px;
+    height: 700px;
     width: 500px;
     margin-inline: auto;
 }
@@ -32,7 +32,7 @@
 .last-content{
     background-color: white;
     margin-inline: auto;
-    height: 380px;
+    height: 450px;
     width: 350px;
     position: fixed;
     left: 600px;
@@ -54,11 +54,56 @@
 .gender{
     position: relative;
     top: 100px;
-    left: 10px;
+    left: 20px;
 }
 
 .drop-down-list{
     position: relative;
     top: 120px;
     left: 10px
+}
+
+.text-name{
+    position: relative;
+    top: 120px;
+    left: 20px
+}
+
+.choose-option{
+    position: relative;
+    top: 100px;
+    left: 105px
+}
+
+.feedback-form{
+    position: relative;
+    top: 115px;
+    left: 30px;
+}
+
+.textbox-size{
+    position: relative;
+    top: 100px;
+    left: 105px;
+}
+
+.feedback-message{
+    position: relative;
+    top: 5px;
+    color: gray;
+    font-size: small;
+}
+
+.check-status{
+    position: relative;
+    top: 125px;
+    left: 80px;
+    font-size:smaller;
+}
+
+.submit-btn{
+    position: relative;
+    top: 150px;
+    left: 85px;
+    width: 100px;
 }
