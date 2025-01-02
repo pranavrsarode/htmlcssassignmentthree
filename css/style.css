@@ -3,107 +3,74 @@
     height: 700px;
     width: 500px;
     margin-inline: auto;
+    font-family: sans-serif;
+    padding-top: 40px;
+    color: #757575;
 }
 
-.inner-content{
+.info-white-box {
     background-color: white;
-    margin-inline: auto;
-    height: 120px;
     width: 350px;
-    position: fixed;
-    left: 600px;
-    top: 50px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 30px;
 }
 
-.header-text{
+.banner {
+    height: 50px;
+}
+
+.banner-title {
     font-size: x-large;
     font-weight: bold;
-    padding: 15px 70px;
+    margin: 0px 10px 10px 10px;
 }
 
-.text-content{
-    padding: 0px 50px;
+.banner-content{
+    font-size: small;
 }
 
-.text-content-one{
-    padding: 0px 110px;
-}
-
-.last-content{
-    background-color: white;
-    margin-inline: auto;
+.form-content{
     height: 450px;
-    width: 350px;
-    position: fixed;
-    left: 600px;
-    top: 200px;
+    margin-top: 30px;
 }
 
-.label-one{
-    position: relative;
-    top: 30px;
-    left: 50px;
+.form-row{
+    width: 100%;
+    float: left;
+    margin: 10px 0px;
 }
 
-.label-two{
-    position: relative;
-    top: 55px;
-    left: 50px;
+.form-row-label{
+    width: 90px;
+    float: left;
+    text-align: right;
+    font-size: small;
 }
 
-.gender{
-    position: relative;
-    top: 100px;
-    left: 20px;
+.form-row-input{
+    margin-left: 10px;
+    float: left;
+    text-align: left;
+    width: 240px;
+    font-size: small;
 }
 
-.drop-down-list{
-    position: relative;
-    top: 120px;
-    left: 10px
-}
-
-.text-name{
-    position: relative;
-    top: 120px;
-    left: 20px
-}
-
-.choose-option{
-    position: relative;
-    top: 100px;
-    left: 105px
-}
-
-.feedback-form{
-    position: relative;
-    top: 115px;
-    left: 30px;
-}
-
-.textbox-size{
-    position: relative;
-    top: 100px;
-    left: 105px;
-}
-
-.feedback-message{
-    position: relative;
-    top: 5px;
+.form-row-input p {
     color: gray;
     font-size: small;
 }
 
-.check-status{
-    position: relative;
-    top: 125px;
-    left: 80px;
-    font-size:smaller;
+.submit-btn{
+    width: 70px;
+    color: white;
+    background-color: #5994D9;
+    padding: 10px;
+    margin: auto;
 }
 
-.submit-btn{
-    position: relative;
-    top: 150px;
-    left: 85px;
-    width: 100px;
+.size-select{
+    color: #757575;
+    width: 170px;
+    padding: 3px
 }
